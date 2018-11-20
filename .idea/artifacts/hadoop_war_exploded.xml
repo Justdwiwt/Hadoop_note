@@ -7,6 +7,11 @@
         <element id="directory" name="classes">
           <element id="module-output" name="hadoop" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="D:/hadoop/Day01 今天笔记/Day01/hadoop-2.7.1_64bit/hadoop-2.7.1/share/hadoop/hdfs/hadoop-hdfs-nfs-2.7.1.jar" />
+          <element id="file-copy" path="D:/hadoop/Day01 今天笔记/Day01/hadoop-2.7.1_64bit/hadoop-2.7.1/share/hadoop/hdfs/hadoop-hdfs-2.7.1.jar" />
+          <element id="file-copy" path="D:/hadoop/Day01 今天笔记/Day01/hadoop-2.7.1_64bit/hadoop-2.7.1/share/hadoop/hdfs/hadoop-hdfs-2.7.1-tests.jar" />
+        </element>
       </element>
     </root>
   </artifact>
