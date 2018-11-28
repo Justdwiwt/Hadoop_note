@@ -19,6 +19,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="hadoop-hdfs-2.7.1-tests" level="project" />
   </component>
 </module>
