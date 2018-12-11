@@ -26,4 +26,4 @@
 
 [Flume Interceptor](flume-interceptor.md)
 
-[Flume Processor](flum-processor.md)
+[Flume Processor](flume-processor.md)
